@@ -1,9 +1,12 @@
 // Day 1: Simple Calculator
 
 // Concepts implemented:
-//   -> 'if/else' conditions
-//   -> 'while' loop
-//   -> functions
+//   -> Conditional Statements ('if/else')
+//   -> Loops ('while', 'do-while')
+//   -> Functions
+
+// Thoughts: 
+// Finally started! This project felt far too silly, but hey, gotta start somewhere, right?
 
 
 #include<iostream>
