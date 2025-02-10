@@ -1,6 +1,6 @@
-# Dev Diaries 🍄🌿
+# Code Diaries 🍄🌿
 
-Welcome to **Dev Diaries**, where I document my coding journey as a Computer Science student! 🍄🌿
+Welcome to **Code Diaries**, aplace where I document my coding journey as a Computer Science student! 🍄🌿
 
 ## ℹ️ About 
 I'm on a mission to sharpen my programming skills beyond just coursework. This repository will contain small projects, coding exercises, and explorations into different programming concepts as I build confidence in writing code.
